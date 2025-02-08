@@ -19,7 +19,7 @@ local SilentAimSettings = {
     SilentAimMethod = "Raycast",
     
     FOVRadius = 130,
-    FOVVisible = false,
+    FOVVisible = true,
     ShowSilentAimTarget = false, 
     
     MouseHitPrediction = false,
